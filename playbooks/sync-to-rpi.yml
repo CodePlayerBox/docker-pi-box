@@ -1,0 +1,6 @@
+---
+- name: deploy scratch gui to pi
+  hosts: rpi
+  roles:
+    - { role: sync-assets }
+    #- { role: run-scratch-docker }
