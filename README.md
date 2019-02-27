@@ -1,5 +1,8 @@
-# docker-scratch-gui
-Docker container for 80 port
+## 检出代码
+在开发主机上执行下面的git复制代码
+```
+git clone --recursive https://github.com/CodePlayerBox/docker-pi-box.git
+```
 
 ## 构建运行
 
